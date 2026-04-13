@@ -29,6 +29,10 @@ This project asks multiple questions, takes user input, and shows the final scor
 dart run
 ```
 
+<img width="1485" height="803" alt="image" src="https://github.com/user-attachments/assets/09d5f1ab-be27-4e8d-9b80-801f04702ad1" />
+
+---
+
 3. Answer questions by typing `a`, `b`, or `c`
 
 ---
